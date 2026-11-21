@@ -18,3 +18,9 @@ Captured in Large Controls Player 0.9.42 with sample music.
 | Music Library | App updates |
 | --- | --- |
 | <img src="screenshots/library.png" width="220" alt="Searchable song library with Add to Playlist controls"> | <img src="screenshots/app-updates.png" width="220" alt="App updates dialog with update checks and installation from Downloads"> |
+
+### E-Paper theme
+
+| Now Playing | Equalizer | Music Library |
+| --- | --- | --- |
+| <img src="screenshots/e-paper-now-playing.png" width="220" alt="Now Playing in the E-Paper theme"> | <img src="screenshots/e-paper-equalizer.png" width="220" alt="Equalizer in the E-Paper theme"> | <img src="screenshots/e-paper-library.png" width="220" alt="Music Library in the E-Paper theme"> |
