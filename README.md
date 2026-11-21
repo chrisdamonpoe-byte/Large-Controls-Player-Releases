@@ -29,4 +29,6 @@ Captured in Large Controls Player 0.9.42 with sample music.
 
 Browse stations by genre, search by name, and tap the star to save a favorite. Starred station cards show a gold badge, and the large Previous and Next buttons cycle through those stations first. The large Play button controls radio, and **Media** returns to local music.
 
-<img src="screenshots/radio-favorites.png" width="260" alt="Live Radio station grid with logos, gold favorite stars, and the large player controls">
+| Dark | E-Paper |
+| --- | --- |
+| <img src="screenshots/radio-favorites.png" width="240" alt="Live Radio station logos and gold favorite stars in Dark theme"> | <img src="screenshots/e-paper-radio-favorites.png" width="240" alt="Live Radio station logos and gold favorite stars in E-Paper theme"> |
