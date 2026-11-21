@@ -3,7 +3,7 @@
 Signed Debian installers for the Raspberry Pi OS touchscreen music player.
 
 - [Download the latest installer](https://github.com/chrisdamonpoe-byte/Large-Controls-Player-Releases/releases/latest)
-- Install version **0.9.42** once with Raspberry Pi OS's Default Package Installer, then reopen the player.
+- Install the latest version once with Raspberry Pi OS's Default Package Installer, then reopen the player.
 - Future releases appear automatically under **Settings > App updates**. No GitHub account or token is needed on the Pi.
 - For a manual transfer, copy the .deb and matching .deb.sig into Downloads and choose **Install from Downloads** in the player.
 
@@ -24,3 +24,9 @@ Captured in Large Controls Player 0.9.42 with sample music.
 | Now Playing | Equalizer | Music Library |
 | --- | --- | --- |
 | <img src="screenshots/e-paper-now-playing.png" width="220" alt="Now Playing in the E-Paper theme"> | <img src="screenshots/e-paper-equalizer.png" width="220" alt="Equalizer in the E-Paper theme"> | <img src="screenshots/e-paper-library.png" width="220" alt="Music Library in the E-Paper theme"> |
+
+### Live Radio
+
+Browse stations by genre, search by name, and tap the star to save a favorite. Starred station cards show a gold badge, and the large Previous and Next buttons cycle through those stations first. The large Play button controls radio, and **Media** returns to local music.
+
+<img src="screenshots/radio-favorites.png" width="260" alt="Live Radio station grid with logos, gold favorite stars, and the large player controls">
