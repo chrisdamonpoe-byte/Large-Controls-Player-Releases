@@ -32,6 +32,14 @@ Captured in Large Controls Player 0.9.42 with sample music.
 | --- | --- |
 | <img src="screenshots/library.png" width="220" alt="Searchable song library with Add to Playlist controls"> | <img src="screenshots/app-updates.png" width="220" alt="App updates dialog with update checks and installation from Downloads"> |
 
+### Landscape
+
+Captured in Large Controls Player 0.9.62 at 1280 × 800 with screen rotation set to 0°.
+
+| Now Playing | Equalizer | Music Library |
+| --- | --- | --- |
+| <img src="screenshots/landscape-now-playing.png" width="320" alt="Now Playing in landscape with weather, speaker mute and playback controls"> | <img src="screenshots/landscape-equalizer.png" width="320" alt="Ten-band equalizer in landscape"> | <img src="screenshots/landscape-library.png" width="320" alt="Music Library in landscape with song and playlist controls"> |
+
 ### E-Paper theme
 
 | Now Playing | Equalizer | Music Library |
